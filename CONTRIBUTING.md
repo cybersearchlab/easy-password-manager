@@ -18,11 +18,19 @@ If you have an idea for improving the project, feel free to open an issue with y
 
 If you want to contribute code, please follow these steps:
 1. **Fork** the repository to your GitHub account.
-2. **Clone** your forked repository to your local machine.(`git clone https://github.com/your-username/password-matrix-generator.git`).
-3. Create a new branch for your changes (`git checkout -b feature-branch/your-feature-name`).
-4. Make your changes and commit them with a clear message: (`git commit -m "feat: add encryption support for saved matrix"`).
-5. Push your changes to your forked repository (`git push origin feature-branch/your-feature-name`).
-6. Open a Pull Request (PR) on GitHub with a description of your changes.
+2. **Clone** your forked repository to your local machine.
+
+       git clone https://github.com/cybersearchlab/easy-password-manager.git
+4. Create a new branch for your changes
+
+       git checkout -b feature-branch/your-feature-name
+6. Make your changes and commit them with a clear message:
+
+        git commit -m "feat: add encryption support for saved matrix
+9. Push your changes to your forked repository
+
+       git push origin feature-branch/your-feature-name
+11. Open a Pull Request (PR) on GitHub with a description of your changes.
 
 ## Coding Guidelines
 
