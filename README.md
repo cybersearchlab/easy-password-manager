@@ -92,24 +92,30 @@ This method offers several advantages:
 
 You will be prompted to enter the number of rows and columns:
 
-    Enter the number of rows: 5
-    Enter the number of columns: 4
+    Enter the number of rows: 6
+    Enter the number of columns: 8
 
 ### Step 3: View Generated Matrix
 
 The program displays the generated matrix:
 
 Passwork Matrice:
-<img width="1563" height="105" alt="image" src="https://github.com/user-attachments/assets/4a5eca04-f05c-4ec6-aaad-3489067eebb4" />
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/c978fa7b-e7cf-4d73-993d-f5e24332b364" />
+
+
+<img width="1864" height="376" alt="image" src="https://github.com/user-attachments/assets/c3678d49-0f7c-46e7-b5c8-dfa244a21a8b" />
 
 ### Step 4: Retrieve a Password
 
 Enter the row and column indices (starting from 0) for the password you want:
 
     Enter the row number (starting at 0): 4
-    Enter the column number (starting at 0): 3
+    Enter the column number (starting at 0): 5
     Password at position (4, 3): 9ZL63Q?S8vl+awAXX#3HZ,tEU)tT5Y
-<img width="1556" height="100" alt="image" src="https://github.com/user-attachments/assets/2fe5c4f6-0a34-4ef6-bb20-9c4973b1f8e3" />
+<img width="783" height="333" alt="image" src="https://github.com/user-attachments/assets/60b163da-8601-40b1-afcf-7f0da049074d" />
+
+<img width="1890" height="416" alt="image" src="https://github.com/user-attachments/assets/413c175e-606d-4d40-97b2-a9111a1d7b9b" />
+
 
 ### Step 5: Saved File
 
